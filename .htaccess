@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Accès aux bases de données"
-AuthUserFile .htpasswd
+AuthUserFile /home/nat/.htpasswd
 Require valid-user
